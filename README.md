@@ -103,11 +103,7 @@ Fully compatible with **Windows** and **Termux (Android)** for fast, automated m
 **Repository:** [github.com/KianSantang777/BraintreeCHK](https://github.com/KianSantang777/BraintreeCHK)
 
 ---
-
 ## Author
-[![Author](https://img.shields.io/badge/Author-Kian%20Santang-darkgreen)](https://github.com/KianSantang777)
-[![Telegram](https://img.shields.io/badge/Contact-xqndrs-blue?logo=telegram)](https://t.me/xqndrs)
-
 **Kian Santang**  
 GitHub: [@KianSantang777](https://github.com/KianSantang777)  
 Telegram: [xqndrs](https://t.me/xqndrs)
@@ -115,11 +111,11 @@ Telegram: [xqndrs](https://t.me/xqndrs)
 ---
 
 ## License
-[![License](https://img.shields.io/badge/License-Proprietary-red)](https://github.com/KianSantang777/BraintreeCHK/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-Proprietary-red)](LICENSE.md)
 [![Subscription](https://img.shields.io/badge/Subscription-Required-orange)](https://t.me/xqndrs)
 
-This software is **not free** and requires an **active monthly subscription** to use.  
-To purchase or renew your license, please contact **[@xqndrs](https://t.me/xqndrs)** on Telegram.
+This software is **proprietary** and requires an **active monthly subscription** to use.  
+Unauthorized copying, redistribution, or modification of the code is strictly prohibited.  
+For license purchase or renewal, please contact **[@xqndrs](https://t.me/xqndrs)** on Telegram.
 
-Unauthorized distribution, resale, or modification without a valid license is strictly prohibited.  
-All rights reserved © **Kian Santang**.
+© 2025 **Kian Santang** — All Rights Reserved.
